@@ -39,4 +39,10 @@ The goal of this project is to build a model that accurately classifies differen
 ---
 
 ## 🚀 File Structure
-
+Weather-Type-Classification-Using-ML/
+│
+├── app.ipynb # Jupyter notebook with full ML workflow
+├── streamlit_app.py # Streamlit app script
+├── model.pkl # Trained ML model file
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation (you’re here)
